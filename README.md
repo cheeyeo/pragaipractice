@@ -27,3 +27,9 @@ Need to export PYTHONPATH for local dev
 ```
 export PYTHONPATH="paws"
 ```
+
+## Resources
+
+* [Chapter 3 code]
+
+[Chapter 3 code](https://github.com/noahgift/spartan_ai_lifecyle)
