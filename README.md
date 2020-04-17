@@ -17,7 +17,7 @@ Includes a S3 client; jupyter notebook that uses the client; cli tool for downlo
 
 If the build goes well, you should see the screenshot below:
 
-![AWS Codebuild](https://github.com/cheeyeo/pragaipractice/AWS_CODEBUILD.png)
+![AWS Codebuild](AWS_CODEBUILD_EXAMPLE.png)
 
 
 
